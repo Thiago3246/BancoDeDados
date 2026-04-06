@@ -26,7 +26,7 @@ O projeto foi desenvolvido para servir como base de estudos sobre persistência 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/Thiago3246/BancoDeDados.git](https://github.com/Thiago3246/BancoDeDados.git)
+    git clone https://github.com/Thiago3246/BancoDeDados.git
     ```
 
 2.  **Configuração do MySQL:**
